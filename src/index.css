@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @font-face {
     font-family: "china";
-    src: url("./pricedown.woff2");
+    src: url("/pricedown.woff2");
 }
 html, body{
     width: 100%;
