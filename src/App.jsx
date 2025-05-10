@@ -169,7 +169,7 @@ const App = () => {
             <div className="btmbar absolute bottom-0 left-0 z-[95] w-full h-20 bg-gradient-to-t from-black to-transparent">
               <div className="flex gap-3 items-center px-10 mt-5">
                 <i className="arrw text-2xl ri-arrow-down-line text-white font-semibold bg-black rounded-full w-8 flex justify-center items-center"></i>
-                <h3 className='text-2xl font-[Helvetica] text-white font-semibold'>ScrollDown</h3>
+                <h3 className='text-2xl font-[monospace] text-white font-semibold'>ScrollDown</h3>
                 <img className='absolute h-[65px] left-1/2 -translate-x-1/2 ' src="./ps5.png" alt="" />
               </div>
             </div>
@@ -182,8 +182,8 @@ const App = () => {
               <div className="text-white h-full w-1/2 pr-44 py-10">
                 <h1 className='text-8xl'>Still Running,</h1>
                 <h1 className='text-8xl'>Not Hunting</h1>
-                <p className='font-[Helvetica] mt-10 text-sm tracking-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolorum excepturi sit eum modi libero ipsum voluptatibus neque placeat possimus numquam saepe fuga cumque eaque non, pariatur vero molestiae eos ipsa ad, doloremque eligendi expedita animi? Saepe amet quae animi?</p>
-                <p className='font-[Helvetica] mt-5 text-sm tracking-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolorum excepturi sit eum modi libero ipsum voluptatibus neque placeat possimus numquam saepe fuga cumque eaque non, pariatur vero molestiae eos ipsa ad, doloremque eligendi expedita animi? Saepe amet quae animi?</p>
+                <p className='font-[monospace] leading-4 mt-10 text-sm tracking-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolorum excepturi sit eum modi libero ipsum voluptatibus neque placeat possimus numquam saepe fuga cumque eaque non, pariatur vero molestiae eos ipsa ad, doloremque eligendi expedita animi? Saepe amet quae animi?</p>
+                <p className='font-[monospace] leading-4 mt-5 text-sm tracking-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolorum excepturi sit eum modi libero ipsum voluptatibus neque placeat possimus numquam saepe fuga cumque eaque non, pariatur vero molestiae eos ipsa ad, doloremque eligendi expedita animi? Saepe amet quae animi?</p>
                 <button className='bg-yellow-400 text-3xl mt-10 px-5 py-6 text-black cursor-pointer'>Download Now</button>
               </div>
             </div>
