@@ -164,7 +164,7 @@ const App = () => {
             <div className="images relative w-full h-screen">
               <img className='bg scale-[1.7] rotate-[-9deg] w-full absolute top-0 left-0 z-[90] h-full object-cover' src="./bg.png" alt="" />
               <img className='sky scale-[2] rotate-[-10deg] w-full absolute top-0 left-0 z-[80] h-full object-cover' src="./sky.png" alt="" />
-              <img className='char absolute z-[95] object-cover scale-[1.5] -bottom-[150%] left-1/2 -translate-x-1/2' src="./girlbg.png" alt="" />
+              <img className='char absolute z-[95] object-cover scale-[1.5] -bottom-[150%] right-0' src="./girlbg.png" alt="" />
             </div>
             <div className="btmbar absolute bottom-0 left-0 z-[95] w-full h-20 bg-gradient-to-t from-black to-transparent">
               <div className="flex gap-3 items-center px-10 mt-5">
