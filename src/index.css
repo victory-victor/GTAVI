@@ -1,12 +1,12 @@
 @import "tailwindcss";
 @font-face {
-    font-family: "pricedown";
+    font-family: "china";
     src: url("./pricedown.woff2");
 }
 html, body{
     width: 100%;
     height: 100%;
-    font-family: "pricedown";
+    font-family: "china";
     background-color: black;
     user-select: none;
     overflow-x: hidden;
